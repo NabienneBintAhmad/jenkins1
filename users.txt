@@ -1,0 +1,6 @@
+Lena,Ldevweb,lenadevweb,762245732,lenandiongue@gmail.com,Keur-Massar,admin,bloquer
+Fatou,Fdevweb,fatoudevweb,762245733,fatou@gmail.com,Thies,user,debloquer
+Rokaya,Rdevweb,rokayadevweb,762245734,rokaya@gmail.com,Podor,user,debloquer
+Ami,Adevweb,amidevweb,762245735,ami@gmail.com,Matam,user,bloquer
+Awa,Awdevweb,awadevweb,771234567,awa@gmail.com,Tamba,user,bloquer
+test,test,test,123,test@gmail.com,,user,debloquer,
